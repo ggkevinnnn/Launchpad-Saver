@@ -4,6 +4,8 @@ An MacOS app. Save and Recover Launchpad layout in MacOS. Enable Launchpad in Ma
 # Features
 1.Save current launchpad layout in your mac and recover it at any time to avoid icons disordered caused by system bugs.
 2.Enable/Disable launchpad in MacOS Tahoe Beta (MacOS 26).
+<img width="1920" alt="Screenshot 2025-06-14 at 23 18 59" src="https://github.com/user-attachments/assets/f280abdf-34db-40a0-bf75-434fc6f7a2b8" />
+<img width="776" alt="Screenshot 2025-06-14 at 23 19 07" src="https://github.com/user-attachments/assets/e47b0e0c-d02e-480a-b33a-716fc591b890" />
 
 # Notes
 1.Might need to manually enable Full Disk Access for the app in System Settings.
