@@ -1,5 +1,5 @@
 # Launchpad-Saver
-An MacOS app. Save and Recover Launchpad in MacOS. Enable/Disable Launchpad in MacOS Tahoe Beta.
+An MacOS app. Save and Recover Launchpad in MacOS. Enable Launchpad in MacOS Tahoe Beta.
 
 # Features
 1.Save current launchpad layout in your mac and recover it at any time to avoid icons disordered caused by system bugs.
