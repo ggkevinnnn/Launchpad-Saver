@@ -14,3 +14,5 @@ An MacOS app. Save and Recover Launchpad in MacOS. Enable Launchpad in MacOS Tah
 1.Download the app
 2.Enable Full Disk Access
 3.Start Using
+
+（The app is on the way, just a moment!）
