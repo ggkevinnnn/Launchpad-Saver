@@ -12,6 +12,8 @@ An MacOS app. Save and Recover Launchpad layout in MacOS. Enable Launchpad in Ma
 2.Enable/Disable launchpad in available only in MacOS Tahoe Beta and will also disable the new spotlight (it will change back to the old spotlight).
 3.Enable/Disable launchpad will restart the computer immediately.
 
+# The Full Disk Access is used only to save and recover launchpad layout. If you just want to enable laucnpad, you don't need to enable it.
+
 # Usage
 1.Download the app
 2.Enable Full Disk Access
