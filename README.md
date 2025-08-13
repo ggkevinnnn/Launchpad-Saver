@@ -1,7 +1,7 @@
 # Launchpad-Saver
 An MacOS app. Save and Recover Launchpad layout in MacOS. Enable Launchpad in MacOS Tahoe Beta.
 
-# Shit Apple disabled the launchpad totally in beta5 and later.
+# Apple disabled the launchpad totally in beta5 and later. Use alternative app like LaunchNew instead：https://github.com/ggkevinnnn/LaunchNow
 
 # Features
 1.Save current launchpad layout in your mac and recover it at any time to avoid icons disordered caused by system bugs.
